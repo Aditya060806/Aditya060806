@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/main/banner.gif" width="300" height="300"/>
+    <img src="D:\Endeavors\Coding\Projects\Aditya060806 - github\social.gif" width="300" height="300"/>
     <br>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya Pandey
 </h1>
 <h3 align="center">Code Alchemist | Machine Learning Nerd | LLM Whisperer</h3>
