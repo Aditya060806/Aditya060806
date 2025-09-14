@@ -20,6 +20,7 @@
 - 👯 Looking to collaborate on **Machine Learning projects**
 - 💡 Always open to learning new things
 - 📫 Reach me at: **aditya060806@gmail.com**
+- 🌐 Portfolio: [https://aditya-pandey-chi.vercel.app/](https://aditya-pandey-chi.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
