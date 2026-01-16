@@ -1,7 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
-
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
-
 <div align="center">
   <h1>
     <a href="https://github.com/Aditya060806">
@@ -33,53 +29,28 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left">
-
-[![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
+I am Aditya Pandey
 </p>
 
 ---
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I'm currently working on 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=plastic&logo=tensorflow)
+- I'm currently working on **AI-Integrated Web Platforms & React Projects**
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif?raw=true" width="25">I'm currently learning 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
-![Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
+- I'm currently learning **Advanced Database Management & Cloud Architecture**
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif?raw=true" width="25">I work using 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
+- I work using **GitHub, Git, VS Code, and Docker**
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36">I'm looking for help in 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=plastic&logo=tensorflow)
-![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
-![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic&logo=github)
+- I'm looking for help in **Machine Learning, Web3, and Open Source Projects**
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingAnger.gif" width="24">Ask me about 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
+- Ask me about **React, JavaScript, Node.js, MongoDB, and Full Stack Development**
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-aditya060806-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:aditya060806@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
+- How to reach me: **aditya060806@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aditya-pandey-12225921a/)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Projects are available at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya060806)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aditya-pandey-chi.vercel.app/)
+- Projects are available at: [GitHub](https://github.com/Aditya060806) | [Portfolio](https://aditya-pandey-chi.vercel.app/)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Know about my experiences
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
+- Know about my experiences: [Resume](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
+- Let's connect and collaborate on exciting projects!
 
 ![](https://komarev.com/ghpvc/?username=aditya060806&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=Aditya060806.Aditya060806&right_color=orange&left_text=Visits)
