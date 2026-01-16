@@ -7,8 +7,6 @@
 </div>
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
-<h3 align="center">A passionate Developer from India</h3>
-<h3 align="center">Always learning, Continuously evolving</h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -132,43 +130,13 @@
 
 ---
 
-# <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
+# ✨ Github Stats:
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <!-- For Github Stats -->
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=aditya060806&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Aditya Pandey GitHub stats"/>
-</td>
-<td>
-  <!-- Most Languages Used -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya060806&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <!-- For 3 Column Table -->
-  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya060806&theme=radical&hide_border=false&width=300&height=175" />
-</td>
-<td>
-  <!-- Github Theme Stats -->
-  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya060806&theme=radical" alt="Github Theme Stats">
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<td>
-  <!-- Profile Summary -->
-  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya060806&theme=radical" alt="Profile Summary">
-</td>
-<td>
-  <!-- languages graph -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya060806&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
-</td>
-</tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya060806&show_icons=true&locale=en&layout=compact" alt="aditya060806" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya060806&show_icons=true&locale=en" alt="aditya060806" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya060806&" alt="aditya060806" /></p>
 
 <div align="center">
   <img alt="Aditya Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya060806&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
@@ -187,7 +155,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Aditya060806/Aditya060806/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
