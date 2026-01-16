@@ -1,27 +1,93 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13.2%" style="display:inline; z-index: 999; position: relative; margin-left: 10px;">
+
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" style="display:inline; z-index: 999; position: relative;">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/main/social.gif" width="400" height="400"/>
-  <br>
   <h1>
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Aditya Pandey
+    <a href="https://github.com/Aditya060806">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=500&color=EBA60E&center=true&vCenter=true&height=70&lines=Hi+There%2C+I'm+Aditya+😊" alt="Aditya Hi" />
+    </a>
   </h1>
-  <h3>Engineering Focused Full Stack Web Developer</h3>
-  <h3 align="center">A passionate frontend developer from India</h3>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=49F7C7&center=true&vCenter=true&width=600&lines=AI+Integrated+Web+Platforms;Microservice+Architectures;Cloud+Native+Solutions;Production+Ready+Applications" alt="Typing SVG" />
-  </p>
 </div>
-
----
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya060806&label=Profile%20views&color=0e75b6&style=flat" alt="aditya060806" />
-  <img src="https://img.shields.io/github/followers/Aditya060806?label=Followers&style=flat&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Aditya060806?label=Stars&style=flat&color=yellow" alt="stars" />
+  <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/main/social.gif" width="350" height="350"/>
 </div>
+
+<h3 align="center">
+  <a href="https://github.com/Aditya060806">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=650&height=48&lines=%20%20++++Engineering+Focused+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</h3>
+<h3 align="center">
+  <a href="https://github.com/Aditya060806">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=550&height=48&lines=%20%20++++A+passionate+Developer+from+India" alt="Typing SVG" />
+  </a>
+</h3>
+<h3 align="center">
+  <a href="https://github.com/Aditya060806">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=700&height=48&lines=%20%20++++Always+learning%2C+Continuously+evolving" alt="Typing SVG" />
+  </a>
+</h3>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<p align="left">
+
+[![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
+</p>
 
 ---
 
-## 🚀 About Me
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I'm currently working on 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
+![AI](https://img.shields.io/badge/-AI-FF6F00?style=plastic&logo=tensorflow)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif?raw=true" width="25">I'm currently learning 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
+![Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif?raw=true" width="25">I work using 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36">I'm looking for help in 
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=plastic&logo=tensorflow)
+![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
+![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic&logo=github)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingAnger.gif" width="24">Ask me about 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-aditya060806-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:aditya060806@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Projects are available at
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya060806)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aditya-pandey-chi.vercel.app/)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Know about my experiences
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
+
+![](https://komarev.com/ghpvc/?username=aditya060806&color=blueviolet&style=plastic&label=Profile+Views)
+![](https://visitor-badge.glitch.me/badge?page_id=Aditya060806.Aditya060806&right_color=orange&left_text=Visits)
+<a href="https://github.com/Aditya060806">
+    <img src="https://img.shields.io/github/followers/Aditya060806?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+</a>
+
+---
 
 <div align="center">
   
@@ -29,18 +95,6 @@
   
   > Demonstrated expertise in embedding **intelligent decision making, automation, and analytics** into modern web architectures. Strong emphasis on **clean architecture, performance optimization, microservice based backends, and cloud native deployment strategies** to deliver reliable, extensible, and high impact software solutions.
 
-</div>
-
-<div align="center">
-  
-  - 🔭 Currently working on **AI-Integrated Web Platforms & React Projects**
-  - 🌱 Learning **Advanced Database Management & Cloud Architecture**
-  - 👯 Looking to collaborate on **Full Stack & Machine Learning Projects**
-  - 💡 Passionate about **Clean Architecture & Performance Optimization**
-  - 📫 Reach me: **aditya060806@gmail.com**
-  - 👨‍💻 All of my projects are available at [Portfolio](https://aditya-pandey-chi.vercel.app/)
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
-  
 </div>
 
 ---
@@ -58,10 +112,11 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="385">
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
+<h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h3>
+
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
@@ -97,46 +152,55 @@
 
 ---
 
-## 📊 GitHub Analytics
+# <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <!-- For Github Stats -->
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=aditya060806&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Aditya Pandey GitHub stats"/>
+</td>
+<td>
+  <!-- Most Languages Used -->
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya060806&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <!-- For 3 Column Table -->
+  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya060806&theme=radical&hide_border=false&width=300&height=175" />
+</td>
+<td>
+  <!-- Github Theme Stats -->
+  <img width="316em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya060806&theme=radical" alt="Github Theme Stats">
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<td>
+  <!-- Profile Summary -->
+  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya060806&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <!-- languages graph -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya060806&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aditya060806&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=49F7C7&icon_color=49F7C7&text_color=FFFFFF&ring_color=49F7C7"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya060806&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=49F7C7&text_color=FFFFFF"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya060806&theme=tokyonight&hide_border=true&background=0D1117&ring=49F7C7&fire=49F7C7&currStreakLabel=49F7C7&sideNums=49F7C7&sideLabels=49F7C7" alt="GitHub Streak" width="100%"/>
-  
+  <img alt="Aditya Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya060806&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya060806&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=49F7C7&line=49F7C7&point=FFFFFF&radius=8" alt="Contribution Graph" width="100%"/>
-  
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pandey-12225921a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pandey-12225921a" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/adityapandey_06" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityapandey_06" height="40" width="40" />
-  </a>
-  <a href="mailto:aditya060806@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-pandey-12225921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pandey-12225921a" height="30" width="40" /></a>
+<a href="https://instagram.com/adityapandey_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityapandey_06" height="30" width="40" /></a>
+<a href="mailto:aditya060806@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
 ---
@@ -158,5 +222,13 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya060806&label=Profile%20views&color=0e75b6&style=flat" alt="aditya060806" />
+  <h4> 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38"> 
+    <a href="https://github.com/Aditya060806">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=20&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+repositories+and+leave+a+Star+Please+✯" alt="Typing SVG"/>
+    </a>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38">
+  </h4>
 </div>
+
+---
