@@ -1,30 +1,14 @@
 <div align="center">
-  <h1>
-    <a href="https://github.com/Aditya060806">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=500&color=EBA60E&center=true&vCenter=true&height=70&lines=Hi+There%2C+I'm+Aditya+😊" alt="Aditya Hi" />
-    </a>
-  </h1>
+  <h1>Hi There, I'm Aditya 😊</h1>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/main/social.gif" width="350" height="350"/>
 </div>
 
-<h3 align="center">
-  <a href="https://github.com/Aditya060806">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=650&height=48&lines=%20%20++++Engineering+Focused+Full+Stack+Developer" alt="Typing SVG" />
-  </a>
-</h3>
-<h3 align="center">
-  <a href="https://github.com/Aditya060806">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=550&height=48&lines=%20%20++++A+passionate+Developer+from+India" alt="Typing SVG" />
-  </a>
-</h3>
-<h3 align="center">
-  <a href="https://github.com/Aditya060806">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=700&height=48&lines=%20%20++++Always+learning%2C+Continuously+evolving" alt="Typing SVG" />
-  </a>
-</h3>
+<h3 align="center">Engineering Focused Full Stack Developer</h3>
+<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">Always learning, Continuously evolving</h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
