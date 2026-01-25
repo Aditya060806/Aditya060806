@@ -32,7 +32,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36">I'm looking for help in 
+- <img align='left' src="D:\Endeavors\Coding\Projects\Aditya060806 - github\Port_HandShake.gif" width="36">I'm looking for help in 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=plastic&logo=tensorflow)
 ![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic)
