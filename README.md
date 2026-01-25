@@ -8,8 +8,6 @@
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 <p align="left">
 
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
