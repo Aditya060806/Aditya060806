@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya060806/Aditya060806/main/social.gif" width="350" height="350"/>
+  <img src="./social.gif" width="350" height="350"/>
 </div>
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
@@ -15,45 +15,45 @@
 
 ---
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I'm currently working on 
+- <img align='left' src="./Port_Shocking.gif" width="25">I'm currently working on 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
 ![AI](https://img.shields.io/badge/-AI-FF6F00?style=plastic&logo=tensorflow)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif?raw=true" width="25">I'm currently learning 
+- <img align='left' src="./Port_EyeFlikiring.gif" width="25">I'm currently learning 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
 ![Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif?raw=true" width="25">I work using 
+- <img align='left' src="./Port_AngerVolcano.gif" width="25">I work using 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
 
-- <img align='left' src="D:\Endeavors\Coding\Projects\Aditya060806 - github\Port_HandShake.gif" width="36">I'm looking for help in 
+- <img align='left' src="./Port_HandShake.gif" width="36">I'm looking for help in 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=plastic&logo=tensorflow)
 ![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingAnger.gif" width="24">Ask me about 
+- <img align='left' src="./Port_ShowingAnger.gif" width="24">Ask me about 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
+- <img align='left' src="./Port_Msg.gif" width="27">How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-aditya060806-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:aditya060806@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Projects are available at
+- <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aditya-pandey-chi.vercel.app/)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Know about my experiences
+- <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
+- <img align='left' src="./Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 
 
 ---
@@ -120,7 +120,7 @@
 </p>
 
 
-<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
+<h3 align="left">Connect with me: <img align='center' src="./Port_HandShake.gif" width="50"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-pandey-12225921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pandey-12225921a" height="30" width="40" /></a>
 <a href="https://instagram.com/adityapandey_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityapandey_06" height="30" width="40" /></a>
