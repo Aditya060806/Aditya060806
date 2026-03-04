@@ -81,6 +81,53 @@
 
 ---
 
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: NestJS, Express, FastAPI, Django, Spring
+- **Mobile**: React Native, Flutter, Swift, Kotlin
+- **Real-time**: WebSockets, GraphQL, tRPC
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML & GenAI
+- **Frameworks**: PyTorch, TensorFlow, scikit-learn
+- **LLM Stack**: LangChain, LlamaIndex, Autogen
+- **MLOps**: MLflow, DVC, Weights & Biases
+- **Platforms**: Vertex AI, SageMaker, HuggingFace
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- **Cloud**: AWS, GCP, Azure
+- **Orchestration**: Kubernetes, Docker, Terraform
+- **CI/CD**: GitHub Actions, ArgoCD, Helm
+- **Monitoring**: Prometheus, Grafana, New Relic
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ Blockchain & Web3
+- **Smart Contracts**: Solidity, Hardhat, Foundry
+- **Libraries**: ethers.js, web3.js, viem
+- **Networks**: Ethereum, Polygon, NEAR
+- **Tools**: IPFS, Chainlink, OpenZeppelin
+
+</td>
+</tr>
+</table>
+
+---
+
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="385">
 
 <h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h3>
