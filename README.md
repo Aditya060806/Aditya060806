@@ -13,6 +13,10 @@
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
 </p>
 
+<div align="center">
+  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
+</div>
+
 ---
 
 - <img align='left' src="./Port_Shocking.gif" width="25">I'm currently working on 
@@ -173,9 +177,5 @@
 <a href="https://instagram.com/adityapandey_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityapandey_06" height="30" width="40" /></a>
 <a href="mailto:aditya060806@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
-
-<div align="center">
-  <img src="./terminal.svg" alt="Animated terminal summary" width="760" />
-</div>
 
 
