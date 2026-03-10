@@ -174,4 +174,8 @@
 <a href="mailto:aditya060806@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
+<div align="center">
+  <img src="./terminal.svg" alt="Animated terminal summary" width="760" />
+</div>
+
 
