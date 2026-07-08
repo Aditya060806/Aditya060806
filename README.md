@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
   <h1>Hi There, I'm Aditya 😊</h1>
 </div>
 
