@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/aditya-pandey-12225921a/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://x.com/adityapandey_06"><img src="https://img.shields.io/badge/Twitter-0F172A?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="mailto:aditya060806@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://aditya-pandey-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.adityapandey.site/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -60,7 +60,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
 
 - <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aditya-pandey-chi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.adityapandey.site/)
 
 - <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
