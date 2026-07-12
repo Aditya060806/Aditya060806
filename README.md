@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img src="./dark.svg" alt="Aditya Pandey - Full Stack Developer" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
