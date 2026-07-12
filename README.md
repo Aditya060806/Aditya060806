@@ -2,13 +2,18 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-    <img src="./dark.svg" alt="Aditya Pandey - Full Stack Developer" width="100%" />
+    <img src="./light.svg" alt="Aditya Pandey - Full Stack Developer" width="100%" />
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+<p align="center">
+  <a href="https://github.com/Aditya060806"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-pandey-12225921a/"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/adityapandey_06"><img src="https://img.shields.io/badge/Twitter-0F172A?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="mailto:aditya060806@gmail.com"><img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://aditya-pandey-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+</p>
 
 <div align="center">
   <h1>Hi There, I'm Aditya 😊</h1>
