@@ -35,20 +35,8 @@ I build **AI agents, voice-controlled systems, zero-knowledge infrastructure, an
 **[Ciphera](https://github.com/Aditya060806/Ciphera)** — zero-knowledge KYC for Algorand. In-browser Groth16 proofs over Aadhaar XML, nullifiers for 1-human-1-wallet Sybil resistance, soulbound KYC token, and ECIES + 3-of-5 Shamir recovery; 5 contracts live on testnet, SDKs on npm & PyPI. [[live](https://ciphera-kyc.vercel.app/)]<br>
 `Circom` · `snarkjs` · `PuyaPy` · `FastAPI` · `React` · `TypeScript`
 
-**[VARUNA](https://github.com/Aditya060806/VARUNA)** — AI digital twin of India's climate (ISRO Bharatiya Antariksh Hackathon 2026). 7.42M-param physics-informed ClimateUNet forecasts 10 days of rain & temperature from IMD + INSAT-3DR data; 0.6–0.8 °C MAE, beats persistence by 6–28%, with live what-if heat & air-quality scenarios. [[live](https://huggingface.co/spaces/Aditya1002/VARUNA)]<br>
-`PyTorch` · `CUDA` · `XGBoost` · `FastAPI` · `Docker`
-
-**[Stride](https://github.com/Aditya060806/Stride)** — autonomous onboarding agents. Four tool-calling agents (research, orchestrator, communication, project) read contracts, search the web, send real emails, schedule 48h follow-ups and build dated plans with risk flags. [[live](https://stride-1002.vercel.app/)]<br>
-`Next.js 16` · `Groq Llama 3.3` · `Tavily` · `Prisma` · `PostgreSQL` · `QStash`
-
 **[ScanBorn](https://github.com/Aditya060806/ScanBorn)** — from a room scan to a simulation-validated rover mission. Android/PLY scan → 3D twin → clearance-aware route → behaviour-cloned controller exported to int8 and re-validated in simulation → ESP32 rover; shared Three.js viewer renders 500K points at ~14 ms/frame, with on-device llama.cpp planning. [[live](https://scanborn-one.vercel.app)]<br>
 `Python` · `FastAPI` · `React` · `Three.js` · `Kotlin Compose` · `ESP32 / C++` · `llama.cpp`
-
-**[Veil](https://github.com/Aditya060806/Veil)** — offline-first menstrual health companion. Multi-algorithm cycle prediction with confidence intervals, on-device SQLite, and a dual-mode AI assistant (Groq online, 35+ intent rule engine offline) with PII stripping and prompt-injection guards. [[live](https://veil02.vercel.app/)]<br>
-`Flutter` · `NestJS` · `Firebase` · `Groq` · `Wear OS`
-
-**[GigCover](https://github.com/Aditya060806/GigCover)** — parametric micro-insurance for India's gig workers (Guidewire DEVTrails 2026). Sensor thresholds for rain, heat and AQI trigger zero-claim payouts; XGBoost prices weekly premiums per zone and Isolation Forest + SHAP flags fraud. [[live](https://gigcover.vercel.app/)]<br>
-`Next.js` · `FastAPI` · `XGBoost` · `scikit-learn` · `Leaflet`
 
 ### Packages
 
