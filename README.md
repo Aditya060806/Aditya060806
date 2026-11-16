@@ -20,8 +20,6 @@
   <img src="./social.gif" width="350" height="350" alt="Aditya Pandey, Full Stack AI Engineer" />
 </div>
 
-<h3 align="center">Engineering Focused Full Stack Developer</h3>
-
 <br>
 
 I build **AI agents, voice-controlled systems, zero-knowledge infrastructure, and production web & mobile apps.** 12+ products shipped and live.
@@ -39,12 +37,8 @@ I build **AI agents, voice-controlled systems, zero-knowledge infrastructure, an
 
 ### Open Source
 
-<img align="right" width="270" src="https://count.getloli.com/@:Aditya060806" alt="Profile views" />
-
 - **[cognee](https://github.com/topoteretes/cognee/pull/3815)** · Merged security fix · SSRF protection for URL ingestion
 - **[Submitty](https://github.com/Submitty/Submitty/pull/12554)** · Merged bugfix · Instructor config editor
 - **[Merged PRs](https://github.com/search?q=author%3AAditya060806+is%3Apr+is%3Amerged+-user%3AAditya060806&type=pullrequests)** across external repos · cognee, Submitty & more
 - **[68+ public repos](https://github.com/Aditya060806?tab=repositories)** · AI, Flutter, Rust, C++, Web3 & hardware
 - ***Open to internships, freelance & collaborations***
-
-<br clear="right" />
