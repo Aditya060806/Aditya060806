@@ -13,7 +13,8 @@
 </table>
 
 <div align="center">
-  <h1>Hey, I'm Aditya. I build AI that ships ⚡</h1>
+  <h1>The slope matters more than the y-intercept.</h1>
+  <i>Where you start is fixed. How fast you grow is a choice.</i>
 </div>
 
 <div align="center">
