@@ -1,189 +1,50 @@
-<div align="center">
-  <img src="./light.svg" alt="Aditya Pandey - Full Stack Developer" width="100%" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/Aditya060806"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/aditya-pandey-12225921a/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://x.com/adityapandey_06"><img src="https://img.shields.io/badge/Twitter-0F172A?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="mailto:aditya060806@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://www.adityapandey.site/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Aditya060806&label=Profile%20Views&color=334155&style=flat-square" alt="Profile Views" />
-</p>
+<table width="100%">
+<tr>
+<td align="left">
+<strong>Aditya Pandey · Full Stack AI Engineer.</strong> Building, shipping, and debugging at 3am.
+</td>
+<td align="right">
+<a href="https://www.adityapandey.site/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/aditya-pandey-12225921a/">LinkedIn</a> ·
+<a href="https://x.com/adityapandey_06">X</a> ·
+<a href="mailto:aditya060806@gmail.com">Email</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <h1>Hi There, I'm Aditya 😊</h1>
 </div>
 
 <div align="center">
-  <img src="./social.gif" width="350" height="350"/>
+  <img src="./social.gif" width="350" height="350" alt="Aditya Pandey, Full Stack AI Engineer" />
 </div>
 
 <h3 align="center">Engineering Focused Full Stack Developer</h3>
 
-<div align="center">
-  <img src="./terminal.svg" alt="Animated terminal summary" width="800" />
-</div>
+<br>
 
----
+I build **AI agents, voice-controlled systems, zero-knowledge infrastructure, and production web & mobile apps.** 12+ products shipped and live.
 
-- <img align='left' src="./Port_Shocking.gif" width="25">I'm currently working on 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=plastic&logo=tensorflow)
+### Selected Work
 
-- <img align='left' src="./Port_EyeFlikiring.gif" width="25">I'm currently learning 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript)
-![Cloud](https://img.shields.io/badge/-AWS-FF9900?style=plastic&logo=amazon-aws)
+- **[Brutus](https://github.com/Aditya060806/Brutus)** · Voice-first AI operating layer for full OS control, 25+ tools, Arduino-driven humanoid face. [[live](https://www.brutus.live/)]
+- **[WebScope](https://github.com/Aditya060806/WebScope)** · Gives AI agents eyes without a vision model: websites rendered as text grids LLMs read natively. [[live](https://www.webscope.in/)]
+- **[Ciphera](https://github.com/Aditya060806/Ciphera)** · Zero-knowledge KYC on Algorand. Prove identity without revealing documents. [[live](https://ciphera-kyc.vercel.app/)]
+- **[VARUNA](https://github.com/Aditya060806/VARUNA)** · Digital twin of India's climate from IMD & INSAT-3DR data, with forecasts and what-if scenarios. [[live](https://huggingface.co/spaces/Aditya1002/VARUNA)]
+- **[Stride](https://github.com/Aditya060806/Stride)** · A team of AI agents that reads your documents, researches, sends emails and builds the plan. [[live](https://stride-1002.vercel.app/)]
+- **[CityScope](https://github.com/Aditya060806/CityScope)** · Civic intelligence platform: issue reporting, road-anomaly detection, real-time emergency alerts. [[live](https://cityscope-125206551280.us-central1.run.app/)]
+- **[Veil](https://github.com/Aditya060806/Veil)** · Private menstrual-health companion with AI guidance, all data on device. [[live](https://veil02.vercel.app/)]
+- **[GigCover](https://github.com/Aditya060806/GigCover)** · AI parametric micro-insurance with instant payouts for India's gig workers. [[live](https://gigcover.vercel.app/)]
 
-- <img align='left' src="./Port_AngerVolcano.gif" width="25">I work using 
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker)
+### Open Source
 
-- <img align='left' src="./Port_HandShake.gif" width="36">I'm looking for help in 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=plastic&logo=tensorflow)
-![Web3](https://img.shields.io/badge/-Web3-000000?style=plastic)
-![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=plastic)
+<img align="right" width="270" src="https://count.getloli.com/@:Aditya060806" alt="Profile views" />
 
-- <img align='left' src="./Port_ShowingAnger.gif" width="24">Ask me about 
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb)
+- **[cognee](https://github.com/topoteretes/cognee/pull/3815)** · Merged security fix · SSRF protection for URL ingestion
+- **[Submitty](https://github.com/Submitty/Submitty/pull/12554)** · Merged bugfix · Instructor config editor
+- **[Merged PRs](https://github.com/search?q=author%3AAditya060806+is%3Apr+is%3Amerged+-user%3AAditya060806&type=pullrequests)** across external repos · cognee, Submitty & more
+- **[68+ public repos](https://github.com/Aditya060806?tab=repositories)** · AI, Flutter, Rust, C++, Web3 & hardware
+- ***Open to internships, freelance & collaborations***
 
-- <img align='left' src="./Port_Msg.gif" width="27">How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-aditya060806-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:aditya060806@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-12225921a/)
-
-- <img align='left' src="./Port_ShowingLove.gif" width="25">Projects are available at
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://www.adityapandey.site/)
-
-- <img align='left' src="./Port_Laptop.gif" width="24">Know about my experiences
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_OnWkf2XnW644FRrfONN58EqWqG90ylU/view)
-
-- <img align='left' src="./Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
-
-
----
-
-<div align="center">
-  
-  > **Engineering focused Full Stack Web Developer** with **one+ year** of hands-on experience specializing in architecting and scaling **AI integrated, production ready web platforms** from early concept to real world deployment.
-  
-  > Demonstrated expertise in embedding **intelligent decision making, automation, and analytics** into modern web architectures. Strong emphasis on **clean architecture, performance optimization, microservice based backends, and cloud native deployment strategies** to deliver reliable, extensible, and high impact software solutions.
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<div align="center">
-
-| Role | Organization | Duration |
-|:---:|:---:|:---:|
-| **Vice Chairperson** | IEEE Photonics Society, Chandigarh University | March 2025 – Present |
-| **Google Cloud Lead** | Google Developers Group CU | - |
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: NestJS, Express, FastAPI, Django, Spring
-- **Mobile**: React Native, Flutter, Swift, Kotlin
-- **Real-time**: WebSockets, GraphQL, tRPC
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI/ML & GenAI
-- **Frameworks**: PyTorch, TensorFlow, scikit-learn
-- **LLM Stack**: LangChain, LlamaIndex, Autogen
-- **MLOps**: MLflow, DVC, Weights & Biases
-- **Platforms**: Vertex AI, SageMaker, HuggingFace
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & DevOps
-- **Cloud**: AWS, GCP, Azure
-- **Orchestration**: Kubernetes, Docker, Terraform
-- **CI/CD**: GitHub Actions, ArgoCD, Helm
-- **Monitoring**: Prometheus, Grafana, New Relic
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain & Web3
-- **Smart Contracts**: Solidity, Hardhat, Foundry
-- **Libraries**: ethers.js, web3.js, viem
-- **Networks**: Ethereum, Polygon, NEAR
-- **Tools**: IPFS, Chainlink, OpenZeppelin
-
-</td>
-</tr>
-</table>
-
----
-
-<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="385">
-
-<h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> </h3>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="50" height="50"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="50" height="50"/> </a>
-</p>
-
-
-<h3 align="left">Connect with me: <img align='center' src="./Port_HandShake.gif" width="50"></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-pandey-12225921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-pandey-12225921a" height="30" width="40" /></a>
-<a href="https://instagram.com/adityapandey_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityapandey_06" height="30" width="40" /></a>
-<a href="mailto:aditya060806@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
-</p>
-
-
+<br clear="right" />
