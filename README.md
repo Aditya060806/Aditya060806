@@ -13,7 +13,7 @@
 </table>
 
 <div align="center">
-  <h1>Hi There, I'm Aditya 😊</h1>
+  <h1>Hey, I'm Aditya. I build AI that ships ⚡</h1>
 </div>
 
 <div align="center">
