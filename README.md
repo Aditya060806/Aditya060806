@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>Aditya Pandey · Full Stack AI Engineer.</strong> Building what others put on their roadmap. You'll hear about it.
+<strong>Aditya Pandey · Full Stack AI Engineer.</strong> Building what others put on their roadmap.
 </td>
 <td align="right">
 <a href="https://www.adityapandey.site/">Portfolio</a> ·
