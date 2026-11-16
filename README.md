@@ -26,14 +26,38 @@ I build **AI agents, voice-controlled systems, zero-knowledge infrastructure, an
 
 ### Selected Work
 
-- **[Brutus](https://github.com/Aditya060806/Brutus)** · Voice-first AI operating layer for full OS control, 25+ tools, Arduino-driven humanoid face. [[live](https://www.brutus.live/)]
-- **[WebScope](https://github.com/Aditya060806/WebScope)** · Gives AI agents eyes without a vision model: websites rendered as text grids LLMs read natively. [[live](https://www.webscope.in/)]
-- **[Ciphera](https://github.com/Aditya060806/Ciphera)** · Zero-knowledge KYC on Algorand. Prove identity without revealing documents. [[live](https://ciphera-kyc.vercel.app/)]
-- **[VARUNA](https://github.com/Aditya060806/VARUNA)** · Digital twin of India's climate from IMD & INSAT-3DR data, with forecasts and what-if scenarios. [[live](https://huggingface.co/spaces/Aditya1002/VARUNA)]
-- **[Stride](https://github.com/Aditya060806/Stride)** · A team of AI agents that reads your documents, researches, sends emails and builds the plan. [[live](https://stride-1002.vercel.app/)]
-- **[CityScope](https://github.com/Aditya060806/CityScope)** · Civic intelligence platform: issue reporting, road-anomaly detection, real-time emergency alerts. [[live](https://cityscope-125206551280.us-central1.run.app/)]
-- **[Veil](https://github.com/Aditya060806/Veil)** · Private menstrual-health companion with AI guidance, all data on device. [[live](https://veil02.vercel.app/)]
-- **[GigCover](https://github.com/Aditya060806/GigCover)** · AI parametric micro-insurance with instant payouts for India's gig workers. [[live](https://gigcover.vercel.app/)]
+**[Brutus](https://github.com/Aditya060806/Brutus)** — AI orchestration engine. Runs real Claude Code / Codex / Gemini CLIs on a canvas, 8 LLM specialists in parallel and 121 voice tools behind one allow/deny/ask policy engine; offline voice loop on a Snapdragon X Elite NPU (Qwen3 4B, ~15 tok/s) driving an Arduino robot face. [[live](https://www.brutus.live/)]<br>
+`Electron` · `TypeScript` · `ONNX Runtime` · `Whisper` · `Arduino` · `Docker`
+
+**[WebScope](https://github.com/Aditya060806/WebScope)** — gives AI agents eyes without a vision model. Renders JS-heavy pages into ~2–5 KB text grids (~50–150 tokens vs 1,000+ for screenshots) with clickable element refs; scoped API keys, Redis rate limiting, LangChain & CrewAI tools. Published on npm. [[live](https://www.webscope.in/)]<br>
+`Node.js` · `Playwright` · `Python` · `Redis` · `Docker` · `OpenAPI 3.1`
+
+**[Ciphera](https://github.com/Aditya060806/Ciphera)** — zero-knowledge KYC for Algorand. In-browser Groth16 proofs over Aadhaar XML, nullifiers for 1-human-1-wallet Sybil resistance, soulbound KYC token, and ECIES + 3-of-5 Shamir recovery; 5 contracts live on testnet, SDKs on npm & PyPI. [[live](https://ciphera-kyc.vercel.app/)]<br>
+`Circom` · `snarkjs` · `PuyaPy` · `FastAPI` · `React` · `TypeScript`
+
+**[VARUNA](https://github.com/Aditya060806/VARUNA)** — AI digital twin of India's climate (ISRO Bharatiya Antariksh Hackathon 2026). 7.42M-param physics-informed ClimateUNet forecasts 10 days of rain & temperature from IMD + INSAT-3DR data; 0.6–0.8 °C MAE, beats persistence by 6–28%, with live what-if heat & air-quality scenarios. [[live](https://huggingface.co/spaces/Aditya1002/VARUNA)]<br>
+`PyTorch` · `CUDA` · `XGBoost` · `FastAPI` · `Docker`
+
+**[Stride](https://github.com/Aditya060806/Stride)** — autonomous onboarding agents. Four tool-calling agents (research, orchestrator, communication, project) read contracts, search the web, send real emails, schedule 48h follow-ups and build dated plans with risk flags. [[live](https://stride-1002.vercel.app/)]<br>
+`Next.js 16` · `Groq Llama 3.3` · `Tavily` · `Prisma` · `PostgreSQL` · `QStash`
+
+**[ScanBorn](https://github.com/Aditya060806/ScanBorn)** — from a room scan to a simulation-validated rover mission. Android/PLY scan → 3D twin → clearance-aware route → behaviour-cloned controller exported to int8 and re-validated in simulation → ESP32 rover; shared Three.js viewer renders 500K points at ~14 ms/frame, with on-device llama.cpp planning. [[live](https://scanborn-one.vercel.app)]<br>
+`Python` · `FastAPI` · `React` · `Three.js` · `Kotlin Compose` · `ESP32 / C++` · `llama.cpp`
+
+**[Veil](https://github.com/Aditya060806/Veil)** — offline-first menstrual health companion. Multi-algorithm cycle prediction with confidence intervals, on-device SQLite, and a dual-mode AI assistant (Groq online, 35+ intent rule engine offline) with PII stripping and prompt-injection guards. [[live](https://veil02.vercel.app/)]<br>
+`Flutter` · `NestJS` · `Firebase` · `Groq` · `Wear OS`
+
+**[GigCover](https://github.com/Aditya060806/GigCover)** — parametric micro-insurance for India's gig workers (Guidewire DEVTrails 2026). Sensor thresholds for rain, heat and AQI trigger zero-claim payouts; XGBoost prices weekly premiums per zone and Isolation Forest + SHAP flags fraud. [[live](https://gigcover.vercel.app/)]<br>
+`Next.js` · `FastAPI` · `XGBoost` · `scikit-learn` · `Leaflet`
+
+### Packages
+
+- **[webscope](https://www.npmjs.com/package/webscope)** · Text-grid web renderer for AI agents: browse without screenshots · `npm i -g webscope`
+- **[ciphera-sdk](https://www.npmjs.com/package/ciphera-sdk)** · ZK KYC for Algorand: browser proofs, on-chain verification · `npm i ciphera-sdk` · also on [PyPI](https://pypi.org/project/ciphera/)
+- **[harvest-scan](https://www.npmjs.com/package/harvest-scan)** · Plugin-driven security & code-quality scanner: 0–100 score, SARIF, autofix, GitHub Action · `npm i -g harvest-scan`
+- **[maestro-devops](https://www.npmjs.com/package/maestro-devops)** · AI-assisted dev workflows, code quality and deployment automation · `npm i -g maestro-devops`
+- **[summon-open](https://www.npmjs.com/package/summon-open)** · Open URLs, files and apps from one cross-platform command · `npm i -g summon-open`
+- **[casting-cli](https://www.npmjs.com/package/casting-cli)** · Zero-config React CLI for components, hooks and contexts · `npm i -g casting-cli`
 
 ### Open Source
 
